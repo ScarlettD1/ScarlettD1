@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScarlettD1
 - 👀 I’m interested in tech
-- 🌱 I’m currently learning web, java
+- 🌱 I’m currently learning web
 - 💞️ I’m looking to collaborate on smth
 - 📫 How to reach me https://vk.com/scarlettdkirill
 <!---
